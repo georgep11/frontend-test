@@ -6,7 +6,7 @@ Here you should have everything you need to complete the test
 1. Fork the repository
 2. Clone and install your forked repo
 3. Compelte the test and commit your changes
-4. Send me the link to the forked repo and give me access to see it (archiekd (https://github.com/archiekd))
+4. Send me the link to the forked repo and give me access to see it (archiekd (https://github.com/georgep11))
 
 
 ## Requirements
